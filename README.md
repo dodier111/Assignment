@@ -8,4 +8,4 @@ This Bash script provides functionalities to monitor a specified log file for ne
    Top error messages,
    Overall statistics.
 # Usage
-To make this script executable use the command `chmod +x log_monitor_analysis.sh'
+To make this script executable use the command 'chmod +x log_monitor_analysis.sh'

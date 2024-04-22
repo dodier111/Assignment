@@ -5,5 +5,5 @@ This Bash script provides functionalities to monitor a specified log file for ne
 - Monitor a log file for new entries containing a specified keyword.
 - Analyze the log file for occurrences of a keyword.
 - Generate summary reports:
-   Top error messages.
+   Top error messages,
    Overall statistics.
